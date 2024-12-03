@@ -1,5 +1,4 @@
 import Text.Regex.Posix
-import Data.List (isPrefixOf)
 
 -- Part 1
 checksum :: String -> Int
